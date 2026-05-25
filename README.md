@@ -55,8 +55,7 @@ websites, databases, automations, AI systems and visual communication.
 ## 🌐 Websites
 
 - 🌍 Portfolio: https://gchristian.site/
-- 🛒 Digital Products: https://www.produitsdigitaux.site/
-
+- 🛒 Digital services: https://guelichweb.online/
 ---
 
 ## 📌 Featured Projects
