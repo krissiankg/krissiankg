@@ -181,7 +181,7 @@ Une sélection de plateformes complètes conçues, architecturées et déployée
       <td><b>ExcelTools</b></td>
       <td>Suite d'outils web gratuits pour manipuler, nettoyer, convertir et fusionner des fichiers Excel, CSV, JSON et XML avec traitement 100% sécurisé côté client.</td>
       <td><code>TypeScript</code> <code>Web Workers</code> <code>Data Processing</code></td>
-      <td><a href="https://www.exceltools.site/">Visiter</a></td>
+      <td><a href="https://www.exceltools.online/">Visiter</a></td>
     </tr>
     <tr>
       <td><b>Spass Mit Deutsch Bénin</b></td>
