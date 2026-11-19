@@ -1,7 +1,7 @@
 <!-- Banner / Intro -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=860&lines=Hi+%F0%9F%91%8B%2C+I'm+Christian+GUEGUELIGUE;Full-Stack+Engineer+%C2%B7+AI+Automation+Architect;Vibe+Coder+%26+Next-Gen+Builder;Shipping+Autonomous+Systems+%26+SaaS+at+Light+Speed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=860&lines=Hi+%F0%9F%91%8B%2C+I'm+Christian+GUEGUELIGUE;Full-Stack+Engineer+%C2%B7+AI+Automation+Architect;Vibe+Coder+%26+UX%2FUI+Designer;Webmaster+%26+Trainer+%C2%B7+FORGE+IA;Shipping+Autonomous+Systems+%26+SaaS+at+Light+Speed" alt="Typing SVG" />
 
   <br />
 
@@ -16,8 +16,12 @@
   </p>
 
   <p>
+    🎯 <strong>Open to</strong> Full-Stack Software Engineer roles · full-time · remote or Canada
+  </p>
+
+  <p>
     <a href="https://gchristian.online/"><img src="https://img.shields.io/badge/Portfolio-gchristian.online-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://offre.guelichweb.online/#portfolio"><img src="https://img.shields.io/badge/Showcase-Live_Projects-6366f1?style=for-the-badge&logo=firefox&logoColor=white" alt="Showcase" /></a>
+    <a href="https://gchristian.online/projects"><img src="https://img.shields.io/badge/Showcase-Live_Projects-6366f1?style=for-the-badge&logo=firefox&logoColor=white" alt="Showcase" /></a>
     <a href="mailto:krissiankg@gmail.com"><img src="https://img.shields.io/badge/Email-krissiankg@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/christian-guegueligue-a66876188/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
@@ -41,6 +45,28 @@
 - 🛠️ Expertise Full-Stack complète : **Next.js (App Router / Turbopack)**, **React 18/19**, **TypeScript**, **Supabase**, **Node.js**, **Tailwind CSS** et environnements **Linux VPS**.
 - 🤖 Maîtrise des orchestrateurs d'automatisation : **n8n**, **Make**, intégrations API complexes, webhooks et pipelines temps réel.
 - 🎨 Design interactif, Glassmorphism, animations fluides (**Framer Motion**, **Three.js**) et applications multimédias (**WebGPU**, **WebCodecs**, **WASM**).
+- 🎓 Formateur : j'ai créé **FORGE IA**, un bootcamp présentiel à Godomey (Bénin) où des débutants apprennent à créer, déployer et vendre des sites et apps avec l'IA.
+- 📊 Background data & recherche : traitement de données (SPSS, Excel), digitalisation d'enquêtes (**Survey Solutions**, **CSPro**) pour Bioversity/IITA, PADA-Nutrition et l'IRD.
+
+---
+
+## 🧳 Experience
+
+| Période | Rôle | Organisation |
+|:--|:--|:--|
+| 2025 – Présent | Webmaster & Technical Support | JSAN — Journées Scientifiques de l'Alimentation et de la Nutrition |
+| 2025 – Présent | Freelance Community Manager | ADVOCACY-ONG Bénin |
+| 2023 – Présent | Founder & Lead Developer | GUELICHWEB — Agence digitale & IA |
+| 2022 – Présent | Freelance Training Consultant (WordPress, copywriting, vidéo) | Dr Computer, SNB, particuliers |
+| 2017 – Présent | UI/UX Design, Web Development & Website Administration | Freelance |
+| 2017 – 2023 | Communication Strategy Consultant | Alliance Bioversity-CIAT Bénin |
+| 2019 – 2022 | IT Repair & Maintenance | Alliance Bioversity-CIAT Bénin |
+| 2021 | IT Technician, Trainer & Database Administrator | PADA-Nutrition |
+| 2018 | Data Entry & Data Verification | IRD |
+| 2015 – 2016 | Research Assistant · Data Processing Officer | Bioversity-Bénin / IITA |
+
+**🎓 Formation** : University of Maryland Global Campus (UMGC, Bachelor L1, en cours) · Université d'Abomey-Calavi (UAC)  
+**🌍 Langues** : Français (natif / bilingue) · Anglais (professionnel intermédiaire)
 
 ---
 
@@ -72,7 +98,7 @@
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Claude_3.5_Sonnet-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/OpenAI_o3%2F4o-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0 by Vercel" />
   <img src="https://img.shields.io/badge/Bolt.new-FF5722?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Bolt.new" />
@@ -92,6 +118,9 @@
   <img src="https://img.shields.io/badge/WebGPU-990000?style=for-the-badge&logo=w3c&logoColor=white" alt="WebGPU" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity" />
 </p>
 
 ### 🤖 Intelligent Automation, Backend & Cloud Infrastructure
@@ -105,6 +134,20 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/AWS_(EC2%2C_S3)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+### 🎨 Design, Motion & Multimédia
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="CapCut" />
 </p>
 
 ---
@@ -131,9 +174,9 @@ Une sélection de plateformes complètes conçues, architecturées et déployée
     </tr>
     <tr>
       <td><b>FORGE IA</b></td>
-      <td>Plateforme EdTech immersive dédiée à la création et monétisation de SaaS avec l'IA. Réservation de cohortes, paiement Mobile Money intégré et espace membre interactif.</td>
+      <td>Plateforme du bootcamp présentiel (6 séances, Godomey) pour apprendre à créer, déployer et vendre des sites et apps avec l'IA. Réservation de cohortes, paiement Mobile Money et espace membre.</td>
       <td><code>Next.js</code> <code>Turbopack</code> <code>Tailwind</code> <code>Mobile Money</code></td>
-      <td><a href="https://forgeia.guelichweb.store/">Visiter</a></td>
+      <td><a href="https://forgeia.site/">Visiter</a></td>
     </tr>
     <tr>
       <td><b>Spass Mit Deutsch Platform</b></td>
@@ -191,7 +234,7 @@ Une sélection de plateformes complètes conçues, architecturées et déployée
     </tr>
     <tr>
       <td><b>BUSCORD</b></td>
-      <td>Portail web d'entreprise d'ingénierie et bureau d'études spécialisé dans le contrôle technique, les audits structurels et l'expertise en bâtiment.</td>
+      <td>Plateforme institutionnelle d'un bureau de suivi-contrôle et de réalisation de projets de développement au Burkina Faso (BTP, humanitaire, intermédiation sociale), partenaire des bailleurs et ONG.</td>
       <td><code>Web Platform</code> <code>SEO</code> <code>Modern Design</code></td>
       <td><a href="https://buscord.online/">Visiter</a></td>
     </tr>
@@ -199,13 +242,43 @@ Une sélection de plateformes complètes conçues, architecturées et déployée
       <td><b>OPENWAY</b></td>
       <td>Centre d’orientation et d’accompagnement académique pour jeunes élèves et étudiants : modules de formation, réservation et orientation scolaire.</td>
       <td><code>FluentBooking</code> <code>Kkiapay</code> <code>WordPress</code></td>
-      <td><a href="http://openway.bj/">Visiter</a></td>
+      <td><a href="https://openway.bj/">Visiter</a></td>
+    </tr>
+    <tr>
+      <td><b>Guelichweb</b></td>
+      <td>Site de l'agence de transformation digitale & IA : plateforme Next.js avec CMS headless Sanity, plus une landing page de vente avec capture de leads et offre promotionnelle.</td>
+      <td><code>Next.js</code> <code>Sanity</code> <code>Lead Gen</code></td>
+      <td><a href="https://guelichweb.online/fr">Visiter</a> · <a href="https://offre.guelichweb.online/">Offre</a></td>
+    </tr>
+    <tr>
+      <td><b>LearnIA</b></td>
+      <td>Concept EdTech qui transforme les meilleures vidéos YouTube éducatives en parcours d'apprentissage structurés, sélectionnés par l'IA.</td>
+      <td><code>AI</code> <code>EdTech</code> <code>Vercel</code></td>
+      <td><a href="https://guegueligue-christian.vercel.app/">Visiter</a></td>
+    </tr>
+    <tr>
+      <td><b>Who's the bot?</b></td>
+      <td>Jeu social en temps réel : 3 à 6 joueurs anonymes, une IA cachée parmi eux, à démasquer à chaque manche.</td>
+      <td><code>AI</code> <code>Realtime</code> <code>Game</code></td>
+      <td><a href="https://whos-the-bot.krissiank.chatgpt.site/">Jouer</a></td>
+    </tr>
+    <tr>
+      <td><b>ImmoConnect</b></td>
+      <td>Prototype bilingue immobilier & construction (acheter, louer, publier un bien, lancer un chantier), conçu avec Figma Make.</td>
+      <td><code>Figma Make</code> <code>UX/UI</code></td>
+      <td><a href="https://trill-dun-78912893.figma.site/">Voir</a></td>
+    </tr>
+    <tr>
+      <td><b>Portfolio Dev (Debugging & Testing)</b></td>
+      <td>Portfolio d'études de cas : plateforme d'examens Spass mit Deutsch (Next.js, React, Prisma), débogage, tests et développement assisté par l'IA.</td>
+      <td><code>Next.js</code> <code>Prisma</code> <code>Testing</code></td>
+      <td><a href="https://rococo-sfogliatella-429312.netlify.app/">Visiter</a></td>
     </tr>
   </tbody>
 </table>
 
 <p align="center">
-  👉 <em>Retrouvez l'ensemble des études de cas détaillées sur mon <a href="https://offre.guelichweb.online/#portfolio"><strong>Showcase Portfolio Interactif</strong></a>.</em>
+  👉 <em>Études de cas, design graphique (FORGE IA, Figma Motion) et vidéos (Halloween Handshake) sur <a href="https://gchristian.online/projects"><strong>gchristian.online/projects</strong></a>.</em>
 </p>
 
 ---
@@ -218,6 +291,8 @@ Une sélection de plateformes complètes conçues, architecturées et déployée
 | **Full-Stack SaaS & Web Applications** | Applications web réactives, dashboards temps réel, intégrations API avec Next.js, React et Supabase. |
 | **AI Agents & Workflows d’Automatisation** | Pipelines n8n, Make, orchestration d'agents IA, webhooks, enrichissement de données et automatisation CRM. |
 | **High-Performance Multimedia Web** | Applications de traitement in-browser avec WebGPU, WebAssembly (WASM), Three.js et WebCodecs. |
+| **UX/UI, Design & Motion** | Wireframes, maquettes et prototypes Figma, tests utilisateurs, visuels de campagne et motion design (After Effects, Figma Motion). |
+| **Formation & Accompagnement** | Bootcamp FORGE IA, formations WordPress, copywriting et montage vidéo, support technique des sites clients. |
 | **DevOps & Cloud Architecture** | Déploiement Linux VPS sécurisé, reverse proxy Nginx, gestionnaires de processus PM2, Docker et CI/CD Vercel. |
 
 ---
@@ -230,7 +305,7 @@ Une sélection de plateformes complètes conçues, architecturées et déployée
 
   <p>
     🌐 <a href="https://gchristian.online/">gchristian.online</a>
-    · 🚀 <a href="https://offre.guelichweb.online/#portfolio">Portfolio Showcase</a>
+    · 🚀 <a href="https://gchristian.online/projects">Portfolio Showcase</a>
     · 💼 <a href="https://www.linkedin.com/in/christian-guegueligue-a66876188/">LinkedIn</a>
     · ✉️ <a href="mailto:krissiankg@gmail.com">krissiankg@gmail.com</a>
   </p>
