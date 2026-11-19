@@ -251,12 +251,6 @@ Une sélection de plateformes complètes conçues, architecturées et déployée
       <td><a href="https://guelichweb.online/fr">Visiter</a> · <a href="https://offre.guelichweb.online/">Offre</a></td>
     </tr>
     <tr>
-      <td><b>ExcelTools.site</b></td>
-      <td>Suite d'outils gratuits de gestion et de conversion Excel, CSV, JSON et XML, en HTML, CSS et JavaScript.</td>
-      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
-      <td><a href="https://www.exceltools.site/">Visiter</a></td>
-    </tr>
-    <tr>
       <td><b>LearnIA</b></td>
       <td>Concept EdTech qui transforme les meilleures vidéos YouTube éducatives en parcours d'apprentissage structurés, sélectionnés par l'IA.</td>
       <td><code>AI</code> <code>EdTech</code> <code>Vercel</code></td>
